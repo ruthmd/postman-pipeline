@@ -9,4 +9,4 @@
 - [x] Count aggregated names of products.
 - [x] Multiple notebook runs without truncating the created table
 
-The spark-mongo approach is best suited for this task, as data modelling is the concern. Quering and updating documnts on constrainsts is relatively easier.
+The spark-mongo approach is best suited for this task, as data modelling is the concern. Querying and updating documnts on constrainsts is relatively easier in mongo.
