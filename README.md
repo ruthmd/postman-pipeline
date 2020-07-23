@@ -1,6 +1,6 @@
 # postman-pipeline
 
-### Multiple approaches to create a spark pipelines for data  ingestiona and querying
+### Multiple approaches to create spark pipelines for data ingestiona and querying
 
 ### Points to achieve
 - [x] Your code should follow concept of OOPS
